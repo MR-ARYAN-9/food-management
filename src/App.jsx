@@ -17,7 +17,7 @@ import { io } from "socket.io-client";
 import dishFallback from "./assets/dish-fallback.svg";
 import heroDish from "./assets/hero-dish.svg";
 
-const API_BASE = "";
+const API_BASE = "https://food-management-api-enoa.onrender.com";
 
 function classNames(...values) {
   return values.filter(Boolean).join(" ");
@@ -67,9 +67,9 @@ export default function App() {
   useEffect(() => {
     fetchDishes();
 
-    const socket = io("/", {
-      transports: ["websocket", "polling"]
-    });
+    const socket = io("https://food-management-api-enoa.onrender.com", {
+  transports: ["websocket", "polling"]
+});
 
     socket.on("connect", () => setIsConnected(true));
     socket.on("disconnect", () => setIsConnected(false));
