@@ -1,0 +1,6 @@
+node_modules
+dist
+server/data/dishes.db
+server/data/dishes-store.json
+.DS_Store
+npm-debug.log*

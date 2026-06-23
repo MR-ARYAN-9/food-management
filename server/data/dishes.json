@@ -1,0 +1,50 @@
+[
+  {
+    "dishId": 1,
+    "dishName": "Jeera Rice",
+    "imageUrl": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=900&q=80",
+    "isPublished": true
+  },
+  {
+    "dishId": 2,
+    "dishName": "Paneer Tikka",
+    "imageUrl": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=900&q=80",
+    "isPublished": true
+  },
+  {
+    "dishId": 3,
+    "dishName": "Masala Dosa",
+    "imageUrl": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=900&q=80",
+    "isPublished": false
+  },
+  {
+    "dishId": 4,
+    "dishName": "Butter Naan",
+    "imageUrl": "https://images.unsplash.com/photo-1697155406014-04dc649b912b?auto=format&fit=crop&w=900&q=80",
+    "isPublished": true
+  },
+  {
+    "dishId": 5,
+    "dishName": "Veg Biryani",
+    "imageUrl": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?auto=format&fit=crop&w=900&q=80",
+    "isPublished": false
+  },
+  {
+    "dishId": 6,
+    "dishName": "Chole Bhature",
+    "imageUrl": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?auto=format&fit=crop&w=900&q=80",
+    "isPublished": true
+  },
+  {
+    "dishId": 7,
+    "dishName": "Gulab Jamun",
+    "imageUrl": "https://images.unsplash.com/photo-1605197183305-6d700698ac49?auto=format&fit=crop&w=900&q=80",
+    "isPublished": true
+  },
+  {
+    "dishId": 8,
+    "dishName": "Mango Lassi",
+    "imageUrl": "https://images.unsplash.com/photo-1626200929340-33bb7c018ac0?auto=format&fit=crop&w=900&q=80",
+    "isPublished": false
+  }
+]

@@ -1,0 +1,19 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="675" fill="#211914"/>
+  <radialGradient id="fallbackGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(450 320) rotate(90) scale(350 430)">
+    <stop stop-color="#FFF3DD" stop-opacity="0.34"/>
+    <stop offset="0.48" stop-color="#E46F2D" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#17110D" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="900" height="675" fill="url(#fallbackGlow)"/>
+  <ellipse cx="450" cy="430" rx="275" ry="78" fill="#0F0C09" opacity="0.5"/>
+  <ellipse cx="450" cy="355" rx="250" ry="174" fill="#FFF7EA"/>
+  <ellipse cx="450" cy="355" rx="198" ry="136" fill="#E9D4B7"/>
+  <path d="M302 345C345 264 445 239 535 271C622 302 656 375 606 436C553 501 429 509 348 463C301 436 281 384 302 345Z" fill="#E46F2D"/>
+  <path d="M352 329C400 287 493 286 546 333C591 373 580 424 527 448C464 477 378 454 342 407C319 377 326 351 352 329Z" fill="#F3B15B"/>
+  <circle cx="396" cy="345" r="16" fill="#1F6D43"/>
+  <circle cx="492" cy="318" r="14" fill="#1F6D43"/>
+  <circle cx="532" cy="387" r="13" fill="#1F6D43"/>
+  <path d="M248 238C298 178 373 151 451 156" stroke="#F6D4A4" stroke-width="14" stroke-linecap="round" opacity="0.62"/>
+  <path d="M541 162C613 183 664 229 694 290" stroke="#F6D4A4" stroke-width="14" stroke-linecap="round" opacity="0.54"/>
+</svg>
