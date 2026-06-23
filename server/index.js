@@ -64,6 +64,6 @@ io.on("connection", (socket) => {
   socket.emit("dishes:changed", getAllDishes());
 });
 
-server.listen(port, "127.0.0.1", () => {
-  console.log(`DishOps API listening at http://127.0.0.1:${port}`);
+server.listen(port, () => {
+  console.log(`DishOps API listening on port ${port}`);
 });
